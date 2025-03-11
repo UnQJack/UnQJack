@@ -29,9 +29,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/UnQJack/UnQJack/output/snake.svg" alt="Snake animation" />
-
-###
