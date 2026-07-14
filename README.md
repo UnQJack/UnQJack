@@ -71,9 +71,3 @@
 
 
 
-###
-
-![UnQJack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UnQJack&show_icons=true&theme=shades-of-purple&count_private=true)
-
-###
-
